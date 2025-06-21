@@ -1,7 +1,7 @@
-## Hi there 👋
-# iOS developer 👨‍💻
-# Problem solver 🧠
-# Solo and team player 🏆
+# Hi there 👋
+## iOS developer 👨‍💻
+## Problem solver 🧠
+## Solo and team player 🏆
 
 
 <!--
