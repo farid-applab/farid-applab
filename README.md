@@ -1,4 +1,8 @@
 ## Hi there 👋
+# iOS developer 
+# Problem solver
+# Solo and team player
+
 
 <!--
 **farid-applab/farid-applab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
